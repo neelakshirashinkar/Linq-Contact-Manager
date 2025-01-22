@@ -16,10 +16,9 @@ This is a basic contact manager application built with React for the frontend, N
 ## Prerequisites
 
 Before you begin, make sure you have the following installed on your system:
-
-Node.js (version 14 or higher)
-MongoDB (or MongoDB Atlas for cloud-based database)
-Git
+-Node.js (version 14 or higher)
+-MongoDB (or MongoDB Atlas for cloud-based database)
+-Git
 
 ---
 ## Project Setup
@@ -67,7 +66,19 @@ Once both the backend and frontend are running, the contact manager should be ac
 Frontend: http://localhost:5173
 Backend: http://localhost:3000
 
+---
 
+## Upcoming features
+
+These are a few additional features I would have added if I had more time, or features I plan to implement in the future:
+
+- **Edit Contact**: Store and display social media profile links for each contact.
+- **Profile Pictures**: Add the ability to upload and display profile pictures for contacts.
+- **Phone Numbers**: Include fields for storing multiple phone numbers for each contact.
+- **Birthdays**: Add a field for birthdays and possibly birthday reminders.
+- **Address Information**: Include fields for storing home and office addresses.
+- **Contact Groups**: Enable categorization of contacts into groups (e.g., family, friends, work).
+- **Favorites**: Allow users to mark contacts as favorites for easier access.
 
 
 
