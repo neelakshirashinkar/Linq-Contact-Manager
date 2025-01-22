@@ -2,28 +2,30 @@
 
 This is a basic contact manager application built with React for the frontend, Node.js and Express for the backend, and MongoDB for storing contact data. The application allows users to view, add, delete, and search contacts. The interface uses DaisyUI for styling, with both light and dark themes available for user preference.
 
-**Features**
+---
+## Features
 
-View the list of contacts.
-Add new contacts with details (name, email).
-Delete contacts from the list.
-Search for contacts by name/email.
-Light and Dark themes (using DaisyUI and TailwindCSS).
-Responsive design with DaisyUI.
+- **View** the list of contacts.
+- **Add** new contacts with details (name, email).
+- **Delete** contacts from the list.
+- **Search** for contacts by name/email.
+- **Light** and **Dark themes** (using DaisyUI and TailwindCSS).
+- **Responsive design** with DaisyUI.
+---
 
-**Prerequisites**
+## Prerequisites
 
 Before you begin, make sure you have the following installed on your system:
 Node.js (version 14 or higher)
 MongoDB (or MongoDB Atlas for cloud-based database)
 Git
-
-**Project Setup**
+---
+## Project Setup
 
 **1. Clone the repository**
 
 Start by cloning this repository to your local machine:
-git clone https://github.com/yourusername/Linq-Contact-Manager.git
+git clone https://github.com/neelakshirashinkar/Linq-Contact-Manager.git
 cd Linq-Contact-Manager
 
 **2. Set Up the Backend (Express + MongoDB)**
@@ -46,6 +48,7 @@ npm start
 The backend will be available at http://localhost:3000.
 
 **3. Set Up the Frontend (React + DaisyUI)**
+
 a) Install Frontend Dependencies
 Navigate to the client/ directory and install the required dependencies:
 cd ../client
