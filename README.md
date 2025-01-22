@@ -16,9 +16,11 @@ This is a basic contact manager application built with React for the frontend, N
 ## Prerequisites
 
 Before you begin, make sure you have the following installed on your system:
+
 Node.js (version 14 or higher)
 MongoDB (or MongoDB Atlas for cloud-based database)
 Git
+
 ---
 ## Project Setup
 
